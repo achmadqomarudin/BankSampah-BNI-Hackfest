@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">@color/colorDarkGreen</color>
+
+    <!-- Customisasi Background Color -->
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#808080</color>
+    <color name="dot_dark_screen2">#808080</color>
+    <color name="dot_dark_screen3">#808080</color>
+    <color name="dot_dark_screen4">#808080</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#ffff</color>
+    <color name="dot_light_screen2">#ffff</color>
+    <color name="dot_light_screen3">#ffff</color>
+    <color name="dot_light_screen4">#ffff</color>
+
+    <array name="array_dot_active">
+        <item>#ffff</item>
+        <item>#ffff</item>
+        <item>#ffff</item>
+        <item>#ffff</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>#808080</item>
+        <item>#808080</item>
+        <item>#808080</item>
+        <item>#808080</item>
+    </array>
+
+    <!-- Color Dashboard Fragment Penjual -->
+    <color name="colorWhite">#fff</color>
+    <color name="colorDarkWhite">#e7e6e6</color>
+
+    <color name="colorBlack">#0d0d0d</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorDarkTransparent">#23999797</color>
+
+    <color name="colorGreen">#0c896c</color>
+    <color name="colorDarkGreen">#016850</color>
+    <color name="colorVeryDarkGreen">#005441</color>
+    <color name="colorAccentGreen">#cccecd</color>
+
+    <color name="colorDongker">#34495e</color>
+    <color name="colorDarkDongker">#2c3e50</color>
+    <color name="colorVeryDarkDongker">#131d26</color>
+
+    <color name="colorRed">#c0392b</color>
+
+</resources>

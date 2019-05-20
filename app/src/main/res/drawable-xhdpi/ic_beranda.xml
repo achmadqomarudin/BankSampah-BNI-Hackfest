@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="57dp"
+    android:viewportWidth="60"
+    android:viewportHeight="57">
+    <path
+        android:fillColor="#000"
+        android:name="Forma 1"
+        android:pathData="m27 25v2h-12v-2zm18 0v4h-12v-4zm-18 4v4h-12v-4zm18 2v2h-12v-2zm-25 8v4h-5v-4zm7 0v4h-5v-4zm-7 6v4h-5v-4zm7 0v4h-5v-4zm-24 5v3h-1v-3zm4 0v3h-2v-3zm48 0v3h-2v-3zm3 0v3h-1v-3zm-28 -50 -2.04 1.9 -25.43 19.89c-1.38 1.08 -1.54 3.11 -0.35 4.4c0.59 0.63 1.39 0.96 2.2 0.96c0.64 0 1.29 -0.2 1.83 -0.62l23.79 -18.34l-23 17.73v0.08v22h-2v-1c0 -0.55 -0.45 -1 -1 -1c-0.55 0 -1 0.45 -1 1v1h-1v-1c0 -0.55 -0.45 -1 -1 -1c-0.55 0 -1 0.45 -1 1v9c0 0.55 0.45 1 1 1c0.55 0 1 -0.45 1 -1v-1h1v1c0 0.55 0.45 1 1 1c0.55 0 1 -0.45 1 -1v-1h2v2h26v-18h12v18h8v-2h2v1c0 0.55 0.45 1 1 1c0.55 0 1 -0.45 1 -1v-1h1v1c0 0.55 0.45 1 1 1c0.55 0 1 -0.45 1 -1v-9c0 -0.55 -0.45 -1 -1 -1c-0.55 0 -1 0.45 -1 1v1h-1v-1c0 -0.55 -0.45 -1 -1 -1c-0.55 0 -1 0.45 -1 1v1h-2v-22v-0.08l0.79 0.61c0.54 0.42 1.19 0.62 1.83 0.62c0.81 0 1.61 -0.33 2.2 -0.96c1.19 -1.29 1.03 -3.32 -0.35 -4.4l-25.43 -19.89l-2.04 -1.9z" />
+</vector>
